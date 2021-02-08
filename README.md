@@ -12,5 +12,5 @@ Na aula de hoje você aprendeu iniciar um projeto com Shelf, configurar os meddl
     
     * id
     * nome
-    * preço
+    * preco
 
